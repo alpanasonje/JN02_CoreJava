@@ -10,7 +10,7 @@ public class MarkerInterfaceDemo {
 		else
 			System.out.println("Student is not registered for the course");
 		
-		Object
+	
 
 	}
 
